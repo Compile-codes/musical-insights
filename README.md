@@ -4,7 +4,7 @@ A portfolio-grade **React JS music intelligence project** built to demonstrate f
 
 ## Why this project is strong for Google-style applications
 
-Instead of being only a basic music player, Sonic Insight shows:
+Instead of being only a basic music player, Musical Insight shows:
 
 - Search, filtering, sorting, favorites, and playlist building
 - A recommendation engine using weighted similarity scoring
@@ -71,4 +71,4 @@ sonic-insight/
 
 ## Suggested resume bullet
 
-Built Sonic Insight, a React music intelligence dashboard with a custom weighted recommendation algorithm, mood analysis, reusable hooks, local persistence, responsive UI, and testable business logic using Vite and Vitest.
+Built Musical Insight, a React music intelligence dashboard with a custom weighted recommendation algorithm, mood analysis, reusable hooks, local persistence, responsive UI, and testable business logic using Vite and Vitest.
