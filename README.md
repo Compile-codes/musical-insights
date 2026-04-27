@@ -1,4 +1,4 @@
-# Sonic Insight
+# Musical Insight
 
 A portfolio-grade **React JS music intelligence project** built to demonstrate frontend architecture, algorithmic thinking, data visualization, state management, UX polish, and clean component design.
 
